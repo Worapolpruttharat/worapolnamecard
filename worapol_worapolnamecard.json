@@ -1,20 +1,20 @@
 [
-  {
-    "name": "Worapol Pruttharat",
-    "title": "Developer",
-    "phone": "0123456789",
-    "email": "worapol.pru@ku.th",
+   {
+    "name": "Woraphon Pruttharat",
+    "title": "Internet Programming Lecturer",
+    "Phone": "66+ 95 385 9342",
+    "Email" : "worapol.pru@ku.th"
   },
   {
-  "name": "Kanchai Kornkasem",
-  "title": "Internet Programming ",
-  "phone": "+66 99 004 2663",
-  "email": "Kancahi.ko@ku.th"
- },
- {
-  "name": "pawarit pitilerchanasin",
-  "title": "Internet Programming ",
-  "phone": "+66 65 316 4159",
-  "email": "pawarit.pit@ku.th"
+    "name": "Kankanit Puton",
+    "title" :"Internet Programming Lecturer",
+    "Phone" : "66+ 085 166 4572",
+    "Email" : "Katangputsornarm9@gmail.com"
+  },
+  {
+    "name": "pawarit pitilerchanasin",
+    "title": "Internet Programming Lecturer",
+    "Phone": "66+ 65 316 4159",
+    "Email": "pitilerchanasin@gmail.com"
   }
 ]
